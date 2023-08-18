@@ -227,3 +227,8 @@
     transform: rotate(0deg);
   }
 }
+.user_container{
+  width: 250px;
+  height: fit-content;
+  margin: 100px auto;
+}
